@@ -1,0 +1,10 @@
+{
+  "name": "bughunt",
+  "version": "1.0.0",
+  "description": "On-demand, read-only daily bug and staleness hunt skill.",
+  "homepage": "https://github.com/Juan23/bughunt",
+  "repository": "https://github.com/Juan23/bughunt",
+  "author": { "name": "Juan Montano", "url": "https://github.com/Juan23" },
+  "license": "UNLICENSED",
+  "skills": "./skills/"
+}
