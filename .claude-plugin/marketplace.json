@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bughunt",
+  "description": "On-demand read-only daily bug and staleness hunt.",
+  "owner": { "name": "Juan Montano" },
+  "plugins": [{ "name": "bughunt", "source": "./", "category": "developer-tools" }]
+}
